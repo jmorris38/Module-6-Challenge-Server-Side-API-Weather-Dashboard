@@ -1,7 +1,7 @@
 # Module-6-Challenge-Server-Side-API-Weather-Dashboard
 Server Side API Weather Dashboard
 # Live Link
-[Visit my Weather Dashboard](https://jmorris38.github.io/Module-3-Challenge-Employee-Payroll-Tracker/)
+[Visit my Weather Dashboard](https://jmorris38.github.io/Module-6-Challenge-Server-Side-API-Weather-Dashboard/)
 
 ## Technologies Implemented
 1. Server Side OpenWeather API.
@@ -19,4 +19,4 @@ SO THAT I can plan a trip accordingly
 ![screenshot](./assets/images/preview.png)
 
 ## Contact me @
-[Email](jmorris.38@outlook.com)
+jmorris.38@outlook.com
